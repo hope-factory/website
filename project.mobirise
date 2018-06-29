@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hope Factory",
-    "currentPage": "7essentials.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1075,7 +1075,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "4000",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
