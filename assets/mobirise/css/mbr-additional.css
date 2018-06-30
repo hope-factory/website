@@ -2898,13 +2898,16 @@ body {
 .cid-qWqggjJb3n {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/josh-calabrese-112481-unsplash-copy-1920x1280.jpg");
 }
 .cid-qWqggjJb3n .mbr-section-subtitle {
-  color: #767676;
+  color: #e77e26;
 }
 .cid-qWqggjJb3n .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-qWqggjJb3n H2 {
+  color: #ffffff;
 }
 .cid-qWo2N9laHF {
   padding-top: 45px;
