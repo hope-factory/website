@@ -3709,7 +3709,7 @@ body {
 .cid-qWd32UplyK {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1440x1080.jpg");
+  background-image: url("../../../assets/images/cloudiness-clouds-cloudy-417045-copy-1920x852.jpg");
 }
 .cid-qWu1LqoMB4 {
   padding-top: 30px;
@@ -4115,26 +4115,80 @@ body {
 .cid-qWd32VdYsZ .dropdown-item:hover {
   color: #0594a8 !important;
 }
-.cid-qWd32X897N {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qWBu4NmJQm {
+  padding-top: 30px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-qWd32X897N .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qWBu4NmJQm h2 {
+  text-align: center;
 }
-@media (max-width: 992px) {
-  .cid-qWd32X897N .mbr-figure {
-    padding-bottom: 1rem;
-  }
+.cid-qWBu4NmJQm h3 {
+  text-align: center;
+  font-weight: 300;
 }
-.cid-qWd32X897N .mbr-text {
+.cid-qWBu4NmJQm p {
   color: #767676;
 }
+.cid-qWBu4NmJQm .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-qWBu4NmJQm .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-qWBu4NmJQm .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-qWBu4NmJQm .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qWBu4NmJQm .card-title {
+  font-weight: 500;
+}
+.cid-qWBu4NmJQm .card-img {
+  text-align: inherit;
+}
+.cid-qWBu4NmJQm .card-img span {
+  font-size: 48px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qWBu4NmJQm .mbr-figure {
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qWBu4NmJQm .mbr-figure {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qWBu4NmJQm .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+  .cid-qWBu4NmJQm .block-content {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    text-align: center;
+  }
+  .cid-qWBu4NmJQm .block-content .card {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+  }
+}
 .cid-qWu2k5iSfx {
-  background-image: url("../../../assets/images/02.jpg");
+  background-image: url("../../../assets/images/anthony-indraus-134161-unsplash-copy-1920x1080.jpg");
 }
 .cid-qWu2k5iSfx .form-container {
   transition: all .2s;
